@@ -12,9 +12,9 @@
 
 #提示：
 
-1、改改触发弹射的高度mOnBallHeight
-
-2、542行的
+1、修改触发弹射的高度mOnBallHeight
+2、修改小球的半径、初速度
+3、542行的
       /*RectF cricle = new RectF(centerX - r, newy + r, centerX + r, newy
 					- r);
 			canvas.drawOval(cricle, mPaint);*/
